@@ -12,7 +12,7 @@ Bu proje, Pomodoro tekniğini uygulayan basit bir zamanlayıcı uygulamasıdır.
 ## Nasıl Kullanılır
 
 1. Proje dosyalarını bilgisayarınıza indirin veya klonlayın.
-2. `main.py` dosyasını çalıştırın.
+2. `TUA-Pomodoro.py` dosyasını çalıştırın.
 3. Açılan arayüzde "Başlat" düğmesine tıklayarak zamanlayıcıyı başlatın.
 4. Çalışma süresi boyunca geri sayım süresi dakika ve saniye olarak görüntülenecektir.
 5. Çalışma süresi sona erdiğinde, zamanlayıcı otomatik olarak 5 dakikalık bir mola süresine geçecektir.
